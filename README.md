@@ -1,6 +1,6 @@
 # GlassVAE
 
-Variational Autoencoder (VAE) for Metallic Glass Structures using E(n) Equivariant Graph Neural Networks (EGNN).
+Variational Autoencoder (VAE) for Metallic Glass Structures using Graph Neural Networks.
 
 ## Project Structure
 

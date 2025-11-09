@@ -1,6 +1,5 @@
 """
 Variational Autoencoder (VAE) model for glass structures.
-Based on EGNN_15_OPTIMIZE.py - uses MessagePassing instead of custom EGNN.
 """
 import torch
 import torch.nn as nn

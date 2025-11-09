@@ -1,6 +1,5 @@
 """
 Loss functions for GlassVAE project.
-Based on EGNN_15_OPTIMIZE.py - includes RDF loss and edge prediction.
 """
 import torch
 import torch.nn.functional as F

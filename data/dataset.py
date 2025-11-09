@@ -1,6 +1,5 @@
 """
 Dataset class for GlassVAE project.
-Based on EGNN_15_OPTIMIZE.py
 """
 from torch.utils.data import Dataset
 from ..utils.graph import create_graph_data

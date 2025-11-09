@@ -1,6 +1,5 @@
 """
 Data loading functions for GlassVAE project.
-Based on EGNN_15_OPTIMIZE.py
 """
 import numpy as np
 

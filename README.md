@@ -9,7 +9,7 @@ GlassVAE/
 ├── data/                    # Data loading and dataset modules
 │   ├── __init__.py
 │   ├── loader.py           # Functions for loading position and energy data
-│   └── dataset.py          # SiO2Dataset class for PyTorch Geometric
+│   └── dataset.py          # Dataset class for PyTorch Geometric
 ├── models/                  # Model definitions
 │   ├── __init__.py
 │   ├── egnn.py             # E(n) Equivariant Graph Neural Network components
@@ -31,7 +31,7 @@ GlassVAE/
   - `load_pos()`: Loads atomic positions from LAMMPS dump format
   - `open_energy()`: Loads energy data from text files
 - **dataset.py**: PyTorch Geometric dataset class for glass structures
-  - `SiO2Dataset`: Custom dataset class for SiO2 glass structures
+  - `Dataset`: Custom dataset class for glass structures
 
 ### Models Module (`models/`)
 - **egnn.py**: E(n) Equivariant Graph Neural Network implementation

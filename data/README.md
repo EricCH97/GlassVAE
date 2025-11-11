@@ -72,3 +72,10 @@ The energy files are simple text files with one energy value per line:
 - Each line contains: `index energy_value`
 - The loader extracts the last column (energy value)
 - Returns: `[num_samples]` array of energy values
+
+# Data Used for this work
+
+Related training data can be find through this link:
+https://drive.google.com/drive/folders/12vbQczkV9EXxY1x9f0fhGWw9orYQITGi?usp=sharing
+
+
